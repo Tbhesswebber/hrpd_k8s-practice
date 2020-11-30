@@ -1,0 +1,6 @@
+{
+  "vs-kubernetes": {
+    "vs-kubernetes.kubeconfig": "../kube/knote.yaml",
+    "vs-kubernetes.kubectl-path": "/usr/local/bin/kubectl"
+  }
+}
